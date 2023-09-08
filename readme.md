@@ -1,2 +1,3 @@
 ### Assembly Drawing
-![](Drawings/Assembly_Drawing.pdf)
+![](Drawings/AssemblyDrawing1.PNG)
+
