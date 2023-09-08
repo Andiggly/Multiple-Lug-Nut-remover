@@ -1,6 +1,6 @@
-## SolidWorks Exploded Assembly
+## SOLIDWORKS Exploded Assembly
 
-![](Drawings/Capture.PNG)
+![](Drawings/Capture.JPG)
 
 <br/>
 
