@@ -1,2 +1,2 @@
 ### Assembly Drawing
-![](Drawings/Assembly Drawing.pdf)
+![](Drawings/Assembly_Drawing.pdf)
